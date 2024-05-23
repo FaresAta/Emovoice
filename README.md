@@ -1,4 +1,4 @@
-# Emovoice : facial emotion recognition and NLU
+# Emovoice : Facial emotion recognition and NLU
 this is the implementation for CNN, DeepFace, and the Natural Language Understanding model
 
 # Requierments
