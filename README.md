@@ -13,5 +13,7 @@ this is the implementation for CNN, DeepFace, and the Natural Language Understan
 https://www.kaggle.com/datasets/msambare/fer2013
 
 # Code Files
-EmoVoice_phase1 is a real-time facial emotion recognition
-EmoVoice_phase2 is a facial emotion recognition using deepface and IBM Watson Natural Language Understanding
+<ul>
+  <li>EmoVoice_phase1 is a real-time facial emotion recognition</li>
+  <li>EmoVoice_phase2 is a facial emotion recognition using deepface and IBM Watson Natural Language Understanding</li>
+</ul>
