@@ -1,1 +1,1 @@
-# Emovoice
+# Emovoice : facial emotion recognition and NLU
